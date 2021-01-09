@@ -1,0 +1,376 @@
+Material,Value,Spell,Consumed?,Source,Pg.,Lvl.,Notes,School,Artificer,Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Warlock,Wizard
+"-If you find this spreadsheet valuable, I hope you'll visit Applesorcerer.com, where I've started publishing content for the DM's Guild and DriveThruRPG.","-Items in orange and italic are suggested prices; e.g., what a player might pay at a magical supplies store. These are a little subjective. (Also includes the word ""(suggested)"" now. Thanks, Vimes Carrot!) 
+-Items with no marked price (""-"") must be harvested by the caster or acquired via special means.
+-Items in normal black are the minimum value of the material that the spell requires in order to be successful!",-You seem like a person who likes materials. I have a whole podcast exploring the incredible true stories behind the materials we work with outside the realm of fantasy! I'd appreciate it if you visit episodictable.com to give it a listen.,,-,-,-1,"-If you have any suggestions, feel free to add a note directly to this spreadsheet! I'm interested in keeping this an up-to-date and useful resource for fellow DMs. Thanks!
+
+2020-09-23: I have Kobold Press' Deep Magic in hand, but I'm so busy lately that I probably won't add those 600 spells (!) till sometime in 2021. Still happy to hear your suggestions, though!
+
+2020-11-08: Added artificer spells and ""Official Spells w/o Material Components"" sheet.",-1,,,,,,,,,
+[An Item Distasteful to the Target],-,Banishment,N,PHB,217,4,"Obviously, this is highly variable.",Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+"Adamantine, small piece",500 gp,Invulnerability,Y,XGtE,160,9,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Adder's stomach,8 gp (suggested),Melf's Acid Arrow,N,PHB,259,2,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Agate,"1,000 gp",Awaken,Y,PHB,216,5,,Transmutation,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Agate,10 gp (suggested),Darkvision,N,PHB,230,2,May use dried carrot as a component instead.,Transmutation,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+Alum soaked in vinegar,0.05 gp (5 cp) (suggested),Antipathy,N,PHB,214,8,"This component tastes extremely bitter, while the spell's other half (Sympathy) tastes extremely sweet (honeydrop). Very cool! Thanks, Elsa Fitzgerald!",Enchantment,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Amber, Glass, or Crystal Rod",20 gp (suggested),Chain Lightning,N,PHB,221,6,"Amber was noted for its ability to create static electricity. Thanks, Brandon Wallin!",Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Amber, Glass, or Crystal Rod",20 gp (suggested),Lightning Bolt,N,PHB,255,3,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Ammunition,"0.10 gp (1 sp) per arrow, bolt, etc. (suggested)",Conjure Barrage,(DM's Discretion),PHB,225,3,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ammunition,"0.10 gp (1 sp) per arrow, bolt, etc. (suggested)",Conjure Volley,(DM's Discretion),PHB,226,5,,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Ammunition,"0.10 gp (1 sp) per arrow, bolt, etc. (suggested)",Cordon of Arrows,(DM's Discretion),PHB,228,2,,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Artistic Representation of Caster,5 gp,Project Image,N,PHB,270,7,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Artistic Representation of Target,500 gp per hit die,Imprisonment,(DM's Discretion),PHB,252,9,"Also requires a ""special component"" depending on the version of Imprisonment chosen. See spell description.",Abjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Ash,0.05 gp (5 cp) (suggested),Create Homunculus,Y,XGtE,152,6,"Also requires Clay, Mandrake Root, and a jewel-encrusted dagger worth 1,000 gp.",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Ashes of Mistletoe and Spruce,0.50 gp (5 sp) (suggested),Pass without Trace,(DM's Discretion),PHB,264,2,,Abjuration,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Bell (tiny),1 gp (suggested),Alarm,N,PHB,211,1,,Abjuration,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Bitumen (a drop),0.05 gp (5 cp) (suggested),Spider Climb,(DM's Discretion),PHB,277,2,"Bitumen is essentially the same thing as pitch -- a kind of tar or asphalt, sticky and thick petroleum. But the official books refer to them as separate materials, and so it is here, too.
+Edit: J.F. Aster points out that pitch can be a plant product, and bitumen is specifically the petroleum product! Thanks!",Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Black Onyx Stone,150 gp,Create Undead,N,PHB,229,6,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Black Pearl (as crushed powder),500 gp,Circle of Death,N,PHB,221,6,,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Black Silk Square,2 gp (suggested),Negative Energy Flood,N,XGtE,163,5,Also requires a broken bone.,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Blood (a drop),0.10 gp (1 sp) (suggested),Animate Dead,(DM's Discretion),PHB,212,3,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Blood (a drop),0.10 gp (1 sp) (suggested),Bane,(DM's Discretion),PHB,216,1,,Enchantment,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Blood (a vial),-,Summon Greater Demon,N,XGtE,166,4,Blood must be from a humanoid killed in the past 24 hours.,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Blood (a vial),-,Summon Lesser Demons,N,XGtE,167,3,Blood must be from a humanoid killed in the past 24 hours.,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Bone,0.02 gp (2 cp) (suggested),Mordenkainen's Faithful Hound,N,PHB,261,4,"""Give the dog a bone."" Thanks, Janne!",Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Bone dust,0.10 gp (1 sp) (suggested),Animate Dead,N,PHB,212,3,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Bone, Broken",1.50 gp (15 sp) (suggested),Negative Energy Flood,N,XGtE,163,5,Also requires a square of black silk.,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Brimstone,0.10 gp (1 sp) (suggested),Flaming Sphere,N,PHB,242,2,"""Brimstone"" is synonymous with Sulfur, but for D&D purposes, it could imply hellish origin (which would obviously increase its value).",Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Brimstone,0.10 gp (1 sp) (suggested),Guards and Wards,N,PHB,248,6,"""Brimstone"" is synonymous with Sulfur, but for D&D purposes, it could imply hellish origin (which would obviously increase its value).",Abjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Bull Hairs,0.50 gp (5 sp) (suggested),Tenser's Transformation,(DM's Discretion),XGtE,168,6,,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Butter,0.20 gp (2 sp) (suggested),Grease,(DM's Discretion),PHB,246,1,,Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Caterpillar Cocoon,5 gp (suggested),Mass Polymorph,N,XGtE,,,,Transmutation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Caterpillar Cocoon,5 gp (suggested),Polymorph,N,PHB,266,4,"You come out looking totally different. (Thanks, Ali St. James!)",Transmutation,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Chalks and Inks infused with precious gems,50 gp,Teleportation Circle,Y,PHB,282,5,,Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Charcoal, Incense, and Herb mixture",10 gp,Find Familiar,Y,PHB,240,1,Must be consumed by fire in a brass brazier.,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Chrysolite powder,50 gp (suggested),Mordenkainen's Private Sanctum,N,PHB,262,4,,Abjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Clay,0.10 gp (1 sp) (suggested),Conjure Elemental (Earth),N,PHB,225,5,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Clay,0.10 gp (1 sp) (suggested),Create Homunculus,Y,XGtE,152,6,"Also requires Ash, Mandrake Root, and a Jewel-Encrusted Dagger worth 1,000 gp.",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Clay,0.10 gp (1 sp) (suggested),Earthquake,N,PHB,236,8,,Evocation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Clay,0.10 gp (1 sp) (suggested),Feeblemind,N,PHB,239,8,,Enchantment,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Clay,0.10 gp (1 sp) (suggested),Stone Shape,N,PHB,278,4,The clay must be worked into the desired shape of the stone object.,Transmutation,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Clay and Water,0.10 gp (1 sp) (suggested),Transmute Rock,(DM's Discretion),EEPC,21,5,"Also available in PotA pg. 240, XGtE pg. 169",Transmutation,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Clay Model of a Ziggurat,5 gp (suggested),Tongues,N,PHB,283,3,"Likely a reference to the Tower of Babel. (Thanks, Reuben Kendall!)",Divination,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Clay Pot of Brackish Water,1 gp (suggested),Create Undead,N,PHB,229,6,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Clay Pot of Grave Dirt,4 gp (suggested),Create Undead,N,PHB,229,6,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+"Cloak, miniature",1 gp (suggested),Resistance,N,PHB,272,0,,Abjuration,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cloth wad,0.02 gp (2 cp) (suggested),Mordenkainen's Private Sanctum,N,PHB,262,4,,Abjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Cloth, Tiny white strip",0.02 gp (2 cp) (suggested),Aid,N,PHB,211,2,"Dressing for a wound. Like a... band-aid. Thanks, Janne!",Abjuration,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Club,0.50 gp (5 sp) (suggested),Shillelagh,N,PHB,275,0,May substitute a quarterstaff,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coal,1 gp (suggested),Darkness,N,PHB,230,2,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+"Colored Sand (red, yellow, and blue)",10 gp (suggested),Color Spray,(DM's Discretion),PHB,222,1,,Illusion,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Copper Piece,1 cp,Detect Thoughts,N,PHB,231,2,"Get it? Get it??? ""A penny for your thoughts?""",Divination,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Copper Pieces,2 cp,Gentle Repose,N,PHB,245,2,Copper pieces must be placed over corpse's eyes for the duration.,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Copper Wire,0.10 gp (1 sp) per foot (suggested),Message,N,PHB,259,0,,Transmutation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Copper Wire,0.10 gp (1 sp) per foot (suggested),Sending,N,PHB,274,3,"A reference to copper phone lines. (Thanks, Aaron Timlake!)",Evocation,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Cork,0.02 gp (2 cp) (suggested),Water Walk,N,PHB,287,3,,Transmutation,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+"Corn, powdered",0.05 gp (5 cp) (suggested),Rope Trick,N,PHB,272,2,,Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Cricket,0.05 gp (5 cp) (suggested),Sleep,N,PHB,276,1,"You know, like how crickets chirp when you're sleeping or bored or to punctuate an awkward moment. Thanks, Kibchi Redanlae!",Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Crystal Bead,0.50 gp (5 sp) (suggested),Leomund's Tiny Hut,N,PHB,255,3,,Evocation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Crystal Hemisphere,120 gp (suggested),Otiluke's Resilient Sphere,N,PHB,264,4,,Evocation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Crystal or Glass Cone,25 gp (suggested),Cone of Cold,N,PHB,224,5,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Crystal Sphere, small",20 gp (suggested),Otiluke's Freezing Sphere,N,PHB,263,6,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Crystal Vial of phosphorescent material,20 gp (suggested),Hypnotic Pattern,N,PHB,252,3,"""So like a lava lamp?"" Ohh, that's good. Thanks, Janne!",Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Cured Leather,0.10 gp (1 sp) (suggested),Mage Armor,N,PHB,256,1,,Abjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Detritus from the target creature,-,Simulacrum,Y,PHB,276,7,"Fingernail clippings, hair, etc.",Illusion,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Diamond,50 gp,Chromatic Orb,N,PHB,221,1,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Diamond,"1,000 gp",Clone,Y,PHB,222,8,,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Diamond,"5,000 gp",Gate,N,PHB,224,9,,Conjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Diamond,500 gp,Mighty Fortress,Y,XGtE,161,8,,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Diamond,500 gp,Raise Dead,Y,PHB,270,5,,Necromancy,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Diamond,"1,000 gp",Resurrection,Y,PHB,272,7,,Necromancy,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Diamond (as dust),200 gp,Glyph of Warding,Y,PHB,245,3,,Abjuration,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Diamond (as dust),100 gp,Greater Restoration,Y,PHB,246,5,,Abjuration,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Diamond (as dust),25 gp,Nondetection,Y,PHB,263,3,Sprinkled over target,Abjuration,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Diamond (as dust),100 gp,Stoneskin,Y,PHB,278,4,,Transmutation,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+"Diamond and Opal, powdered mix","1,000 gp",Symbol,Y,PHB,280,7,,Abjuration,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Diamonds,300 gp,Revivify,Y,PHB,272,3,,Conjuration,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Diamonds,"25,000 gp",True Resurrection,Y,PHB,284,9,,Necromancy,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dirt,-,Earthquake,N,PHB,236,8,,Evocation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Dirt,-,Flesh to Stone,N,PHB,243,6,The spell components for this spell are ingredients used to make concrete.,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Dirt,-,Longstrider,N,PHB,256,1,,Transmutation,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Distilled Spirits,0.05 gp (5 cp) (suggested),False Life,(DM's Discretion),PHB,239,1,"Thanks to Rachael Wright for noting the difference between ""alcohol"" and the more specific ""distilled spirits!""",Necromancy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Divinatory Tools,100 gp,Find the Path,N,PHB,240,6,"bones, sticks, cards, teeth, runes, dice, etc.",Divination,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dried Carrot,0.05 gp (5 cp) (suggested),Darkvision,N,PHB,230,2,"May use Agate as a component instead.
+...because carrots are good for your vision! (Technically they're not, but that's a rumor started by British propagandists during WW2. They didn't want the Axis to know they had acquired radar technology, so thhey invented this story about how they could see so well at night.)",Transmutation,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+Dust,-,Control Water,N,PHB,227,4,,Transmutation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Dust,-,Disintegrate,N,PHB,233,6,,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Dust,-,Dust Devil,N,EEPC,16,2,"Also available in PotA pg. 235, XGtE pg. 154",Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Dust,-,Ice Storm,N,PHB,252,4,,Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Dust,-,Sleet Storm,N,PHB,276,3,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Earth, Wood, and Water mixture",-,Control Weather,N,PHB,228,8,,Transmutation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Eggshell,0.30 gp (3 sp) (suggested),Bigby's Hand,N,PHB,218,5,,Evocation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Eggshells,5 gp (suggested),Rary's Telepathic Bond,N,PHB,270,5,Requires eggshells from two different types of creatures.,Divination,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Exquisite Chest, 3' x 2' x 2', made of rare materials","5,000 gp",Leomund's Secret Chest,N,PHB,254,4,,Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Exquisite Chest, tiny replica",50 gp,Leomund's Secret Chest,N,PHB,254,4,,Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Eyelash in gum arabic,5 gp (suggested),Invisibility,N,PHB,254,2,,Illusion,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+"Fan, tiny",0.50 gp (5 sp) (suggested),Wind Wall,N,PHB,288,3,,Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Feather,0.10 gp (1 sp) (suggested),Enhance Ability,N,PHB,237,2,,Transmutation,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Feather,0.10 gp (1 sp) (suggested),Feather Fall,N,PHB,239,1,,Transmutation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Feather,0.10 gp (1 sp) (suggested),Tasha's Hideous Laughter,N,PHB,280,1,"It's tickling, of course. (Thanks, Isaac Harvey!)",Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Feather from any bird's wing,0.10 gp (1 sp) (suggested),Fly,N,PHB,243,3,,Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Feather of hummingbird,2 gp (suggested),Foresight,N,PHB,244,9,,Divination,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Feather of owl,0.50 gp (5 sp) (suggested),Identify,N,PHB,252,1,,Divination,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Feather, exotic",3 gp (suggested),Wind Wall,N,PHB,288,3,,Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+"Feather, white",0.10 gp (1 sp) (suggested),Fear,N,PHB,239,3,"""What are you, chicken?"" (booooo!) Thanks, Isaac Harvey!",Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Feldspar,0.10 gp (1 sp) (suggested),Moonbeam,N,PHB,261,2,,Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Firefly,0.10 gp (1 sp) (suggested),Fire Shield,N,PHB,242,4,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Firefly,0.10 gp (1 sp) (suggested),Light,N,PHB,255,0,May use phosphorescent moss instead.,Evocation,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Flame,-,Heat Metal,N,PHB,250,2,,Transmutation,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Flame,-,Sunburst,N,PHB,279,8,,Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Flame,-,Wind Walk,N,PHB,288,6,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Flea (Living),-,Infestation,(DM's Discretion),XGtE,158,0,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Fleece,0.05 gp (5 cp) (suggested),Major Image,N,PHB,258,3,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Fleece,0.05 gp (5 cp) (suggested),Minor Illusion,N,PHB,260,0,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Fleece,0.05 gp (5 cp) (suggested),Phantasmal Force,N,PHB,264,2,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Fleece,0.05 gp (5 cp) (suggested),Programmed Illusion,N,PHB,269,6,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Fleece,0.05 gp (5 cp) (suggested),Silent Image,N,PHB,276,1,Pull the wool over their eyes with illusions!,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Flesh,-,Animate Dead,N,PHB,212,3,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Flesh, a cubic inch",-,Clone,Y,PHB,222,8,I guess a cubic inch is better than a full pound of flesh.,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Focus,"1,000 gp",Scrying,N,PHB,273,5,"Crystal ball, silver mirror, etc.",Divination,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Food morsel,0.01 gp (1 cp) (suggested),Animal Friendship,(DM's Discretion),PHB,212,1,,Enchantment,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Food morsel,0.01 gp (1 cp) (suggested),Animal Messenger,(DM's Discretion),PHB,212,2,,Enchantment,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Forked Metal Rod,250 gp,Plane Shift,N,PHB,266,7,Must be attuned to a particular plane of existence,Conjuration,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Forked Twig,0.10 gp (1 sp) (suggested),Locate Object,N,PHB,256,2,"Dowsing rods are often forked sticks. (Thanks, Tucker Collins!)
+
+",Divination,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+Fur,0.30 gp (3 sp) (suggested),Chain Lightning,N,PHB,221,6,"Probably because of static electricity! Same with Lightning Bolt, and the Amber Rod for both spells. Thanks, Charlie Hogin!",Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Fur,0.30 gp (3 sp) (suggested),Enhance Ability,N,PHB,237,2,,Transmutation,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fur,0.30 gp (3 sp) (suggested),Lightning Bolt,N,PHB,255,3,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Fur of Bat,2 gp (suggested),Arcane Eye,N,PHB,214,4,,Divination,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Fur of Bat,2 gp (suggested),Darkness,N,PHB,230,2,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Fur of Bloodhound,1 gp (suggested),Locate Animals or Plants,N,PHB,256,2,"""To sniff them out."" (Thanks, Margaret Simonson!)",Divination,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Fur of Bloodhound,1 gp (suggested),Locate Creature,N,PHB,256,4,"""To sniff them out."" (Thanks, Margaret Simonson!)",Divination,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+"Fur, Wrapped in Cloth",0.35 gp (35 cp) (suggested),Beast Bond,N,EEPC,14,1,"Could repurpose the Fur component needed in other spells with the addition of the cloth.
+Also available in PotA pg. 233, XGtE pg. 150",Divination,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Gauze,0.10 gp (1 sp) (suggested),Gaseous Form,N,PHB,244,3,,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Gem or other ornamental container,500 gp,Magic Jar,Y,PHB,257,6,"May also be a reliquary, crystal, etc. The container is destroyed when the spell ends, not upon casting.",Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Gem-Encrusted Bowl,"1,000 gp",Heroes' Feast,Y,PHB,250,6,,Conjuration,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Gem, as powder",10 gp (suggested),Wall of Force,(DM's Discretion),PHB,285,5,Gemstone must be clear,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Gems, as powder","5,000 gp",Sequester,Y,PHB,274,7,"Diamond, Emerald, Ruby, and Sapphire",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Giant Slug Bile,250 gp (suggested),Vitriolic Sphere,(DM's Discretion),EEPC,22,4,"Very specifically bile, as opposed to saliva, venom, or whatever else. As slugs do not have livers, presumably this is harvested from the animal's hepatopancreas.
+Also available in PotA pg. 241, XGtE pg. 170",Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Glass Eye,100 gp,Clairvoyance (Seeing),N,PHB,222,3,,Divination,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Glass or Crystal Bead,0.10 gp (1 sp) (suggested),Globe of Invulnerability,Y,PHB,245,6,The bead shatters when the spell ends.,Abjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Glass Sliver,-,Cloud of Daggers,N,PHB,222,2,,Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Glowworm,1 gp (suggested),Dancing Lights,N,PHB,230,0,,Evocation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Gold dust,25 gp,Arcane Lock,Y,PHB,215,2,,Abjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Golden Wire,2 gp per foot (suggested),Levitate,N,PHB,255,2,,Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Granite,0.50 gp (5 sp) (suggested),Wall of Stone,N,PHB,287,5,,Evocation,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Grasshopper's Hind Leg,0.10 gp (1 sp) (suggested),Jump,N,PHB,254,1,,Abjuration,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+Graveyard Dirt (just a pinch),3 gp (suggested),Feign Death,N,PHB,240,3,,Necromancy,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Green Plant,0.10 gp (1 sp) (suggested),Hallucinatory Terrain,N,PHB,249,4,,Illusion,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Guano,0.10 gp (1 sp) per ounce (suggested),Delayed Blast Fireball,N,PHB,230,7,The components for this spell are materials one could use to create a minor explosive.,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Guano,0.10 gp (1 sp) per ounce (suggested),Fireball,N,PHB,241,3,The components for this spell are materials one could use to create a minor explosive.,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Gum Arabic,0.50 gp (5sp) (suggested),True Polymorph,N,PHB,266,9,,Transmutation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Gum Arabic Hemisphere,1 gp (suggested),Otiluke's Resilient Sphere,N,PHB,264,4,,Evocation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Hand Mirror,15 gp (suggested),Wall of Light,N,XGtE,170,5,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Hen's Heart,1 gp (suggested),Fear,N,PHB,239,3,"Makes your target chicken. Thanks, Richard Ward!",Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+"Herbs, Oils, and Incense mixture","1,000 gp",Hallow,Y,PHB,249,5,,Evocation,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holly Berry,0.10 gp (1 sp) (suggested),Conjure Woodland Beings,N,PHB,226,4,One per being conjured,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Holy Symbol,0.10 gp (1 sp) (suggested),Spirit Guardians,N,PHB,278,3,,Conjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holy Symbol,5 gp,Temple of the Gods,N,XGtE,167,7,,Conjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holy Symbol,0.10 gp (1 sp) (suggested),Word of Radiance,N,XGtE,171,0,,Evocation,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holy Water,1 gp (suggested),Dispel Evil,(DM's Discretion),PHB,233,5,,Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Holy/Unholy Water,1 gp (suggested),Bless,(DM's Discretion),PHB,219,1,,Enchantment,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Holy/Unholy Water,1 gp (suggested),Commune,(DM's Discretion),PHB,223,5,,Divination,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holy/Unholy Water,1 gp (suggested),Forbiddance,(DM's Discretion),PHB,243,6,,Abjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holy/Unholy Water,1 gp (suggested),Magic Circle,(DM's Discretion),PHB,256,3,,Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+Holy/Unholy Water,1 gp (suggested),Protection from Evil/Good,(DM's Discretion),PHB,270,1,,Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+Holy/Unholy Water,1 gp (suggested),Regenerate,(DM's Discretion),PHB,271,7,,Transmutation,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holy/Unholy Water,1 gp (suggested),True Resurrection,(DM's Discretion),PHB,284,9,,Necromancy,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Holy/Unholy Water,1 gp (suggested),Wind Walk,(DM's Discretion),PHB,288,6,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Honey drop,0.10 gp (1 sp) per ounce (suggested),Antipathy (Sympathy),(DM's Discretion),PHB,214,8,,Enchantment,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Honeycomb,1 gp (suggested),Magic Mouth,Y,PHB,257,2,,Illusion,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Honeycomb,1 gp (suggested),Mass Suggestion,Y,PHB,258,6,"""Honeyed Words,"" ""Sweet-Talk,"" etc. Thanks, Richard Ward!",Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Honeycomb,1 gp (suggested),Suggestion,Y,PHB,279,2,"""You catch more flies with honey, after all."" Thanks, Grant Drain!",Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Hot Pepper,0.10 gp (1 sp) (suggested),Dragon's Breath,(DM's Discretion),XGtE,154,2,lol,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Ice,-,Ice Knife (or as Water),N,EEPC,18,1,"Also available in PotA pg. 237, XGtE pg. 157",Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Ice,-,"Snilloc's Snowball Swarm(or as Rock Chip, white)",N,EEPC,21,2,Also available in XGtE pg. 165,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Incense,100 gp (suggested),Commune,Y,PHB,223,5,,Divination,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Incense,100 gp (suggested),Conjure Elemental (Air),Y,PHB,225,5,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Incense,400 gp (suggested),Control Weather,Y,PHB,228,8,,Transmutation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Incense,200 gp (suggested),Divination,Y,PHB,234,4,,Divination,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Incense,120 gp (suggested),Forbiddance,Y,PHB,243,6,,Abjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Incense,60 gp (suggested),Glyph of Warding,Y,PHB,245,3,,Abjuration,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Incense,120 gp (suggested),Guards and Wards,Y,PHB,248,6,,Abjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Incense,60 gp (suggested),Hypnotic Pattern,Y,PHB,252,3,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Incense,250 gp,Legend Lore,Y,PHB,254,5,"Also requires 4 x Ivory Strips worth 50 gp each, not consumed.",Divination,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Incense,150 gp (suggested),Speak with Dead,Y,PHB,277,3,,Necromancy,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ink,5 gp (suggested),Dream,N,PHB,236,5,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+"Ink, Lead-based",10 gp,Illusory Script,Y,PHB,252,1,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Iron,0.02 gp (2 cp) (suggested),Heat Metal,N,PHB,250,2,,Transmutation,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Iron,0.02 gp (2 cp) (suggested),Hold Monster,N,PHB,251,5,,Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Iron,0.02 gp (2 cp) (suggested),Hold Person,N,PHB,251,2,,Enchantment,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Iron Blade,2 gp (suggested),Move Earth,N,PHB,263,6,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Iron filings or powder,0.02 gp (2 cp) (suggested),Antimagic Field,N,PHB,213,8,,Abjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Iron filings or powder,0.02 gp (2 cp) (suggested),Enlarge/Reduce,N,PHB,237,2,,Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Iron filings or powder,0.02 gp (2 cp) (suggested),Flaming Sphere,N,PHB,242,2,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Iron filings or powder,0.02 gp (2 cp) (suggested),Reverse Gravity,N,PHB,272,7,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Ivory Portal (miniature),5 gp,Mordenkainen's Magnificent Mansion,N,PHB,261,7,,Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Ivory Strips x 4,50 gp each,Legend Lore,N,PHB,254,5,"Also requires 250 gp worth of incense, consumed.",Divination,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Jacinth,"1,000 gp",Astral Projection,Y,PHB,215,9,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Jade Circlet,"1,500 gp",Shapechange,N,PHB,274,9,Circlet must be placed on head before casting.,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Jade Dust,10 gp,Magic Mouth,Y,PHB,257,2,,Illusion,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Jade Dust,25 gp,Programmed Illusion,(DM's Discretion),PHB,269,6,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Jewel,"1,000 gp",Planar Binding,Y,PHB,265,5,,Abjuration,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Jewel-Encrusted Dagger,"1,000 gp",Create Homunculus,N,XGtE,152,6,"Also requires Clay, Ash, and Mandrake Root. Unlike those components, the dagger is not consumed.",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Jeweled Horn,100 gp,Clairvoyance (Hearing),N,PHB,222,3,,Divination,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Kernels of Grain,0.02 gp (2 cp) per ounce (suggested),Insect Plague,(DM's Discretion),PHB,254,5,"Grain, food, crops, to attract a plague of locusts. (Thanks, Isaac Harvey!)",Conjuration,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Knotted String,-,Guards and Wards,N,PHB,248,6,,Abjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Lead, a thin sheet",0.06 gp (6 cp) (suggested),Mordenkainen's Private Sanctum,N,PHB,262,4,,Abjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Leather Loop,0.50 gp (5 sp) (suggested),Levitate,N,PHB,255,2,So that you can pull yourself up by the bootstraps. (thanks Nate!),Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Leather strap, bound around arm or similar appendage",0.50 gp (5 sp) (suggested),Freedom of Movement,N,PHB,244,4,,Abjuration,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Legume Seed,0.10 gp (1 sp) per ounce (suggested),Gust of Wind,N,PHB,248,2,"The material for creating a gust of wind is beans!! (Thanks, Reuben Kendall!)",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Licorice Root Shaving,0.10 gp (1 sp) per ounce (suggested),Haste,N,PHB,250,3,"Licorice root can be used as a laxative. (Thanks, Sam Mendelsohn!)",Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Lime,0.10 gp (1 sp) per pound (suggested),Flesh to Stone,N,PHB,243,6,The spell components for this spell are ingredients used to make concrete.,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Lodestone,10 gp (suggested),Disintegrate,N,PHB,233,6,,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Lodestone,10 gp (suggested),Mending,N,PHB,259,0,,Transmutation,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Lodestone,10 gp (suggested),Reverse Gravity,N,PHB,272,7,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Magnifying Glass,100 gp,Sunbeam,N,PHB,279,6,"""For burning ants!"" (Thanks, William Orfanakos!)",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Makeup,1 gp (suggested),Friends,Y,PHB,244,0,Applied to face as spell is cast.,Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Mandrake Root,1 gp (suggested),Create Homunculus,Y,XGtE,152,6,"Also requires Ash, Clay, and a jewel-encrusted dagger worth 1,000gp",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Marked Sticks or Bones,25 gp,Augury,N,PHB,215,2,"Alternatively, tarot cards, tea leaves, or other Divination tool.",Divination,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Melee Weapon,0.10 gp (1 sp),Steel Wind Strike,N,XGtE,166,5,,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Mercury,5 gp per ounce (suggested),Maddening Darkness,N,XGtE,160,8,Also requires a drop of pitch.,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Mercury,5 gp per ounce (suggested),Symbol,N,PHB,280,7,,Abjuration,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Mercury,5 gp per ounce (suggested),Tenser's Floating Disk,N,PHB,282,1,"Richard Ward: ""Near enough anything will float on mercury. Here's an anvil doing so: https://www.youtube.com/watch?v=f5U63IGmy6Q",Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Mercury,5 gp per ounce (suggested),True Polymorph,N,PHB,266,9,,Transmutation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Mica chip,-,Shatter,N,PHB,275,2,"Mica is a soft, flaky mineral that can often be found in thin layers. Despite being a rock, it breaks apart easily. (Thanks, Rachael Wright!)",Evocation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Miniature Hand Sculpted from Clay,-,Maximilian's Earthen Grasp,N,EEPC,19,2,"Also available in PotA pg. 238, XGtE pg. 161",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Mistletoe,0.10 gp (1 sp) (suggested),Druid Grove,Y,XGtE,154,6,This mistletoe must have been harvested with a golden sickle underneath the light of a full moon.,Abjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mistletoe sprig,0.10 gp (1 sp) (suggested),Goodberry,N,PHB,246,1,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Mistletoe sprig,0.10 gp (1 sp) (suggested),Shillelagh,N,PHB,275,0,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Molasses (a drop),0.10 gp (1 sp) per ounce (suggested),Slow,(DM's Discretion),PHB,277,3,"Not really relevant, but isn't the Great Molasses Flood a strange event from history???",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Moonseeds,20 gp (suggested),Moonbeam,N,PHB,261,2,"Technically there is a Moonseed Plant, but it could be something different in your world! Something rare... something to quest for!",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Niter, Sulfur, and Pine Tar formed into a bead",-,Melf's Minute Meteors,N,EEPC,19,3,"Also available in PotA pg. 238, XGtE pg. 161",Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Nut Shells (3),-,Confusion,N,PHB,224,4,Heh.,Enchantment,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Oak bark,-,Barkskin,N,PHB,217,2,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Obsidian,-,Erupting Earth,N,EEPC,16,3,"Also available in PotA 235, XGtE 155",Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Oil,0.10 gp (1 sp) per ounce (suggested),Guards and Wards,N,PHB,248,6,,Abjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Oils and Unguents,"1,000 gp",Reincarnate,Y,PHB,271,5,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ointment for the Eyes,25 gp,True Seeing,Y,PHB,284,6,"The ointment is made of mushroom powder, saffron, and fat.",Divination,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Opaque Glass,0.50 gp (5 sp) (suggested),Mordenkainen's Private Sanctum,N,PHB,262,4,,Abjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Paper or Leaf Funnel,-,Maelstrom,N,EEPC,19,5,"Also available in PotA pg. 238, XGtE pg. 160",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Parchment, as a twisted loop",-,Rope Trick,N,PHB,272,2,"Probably meant to be a Mobius strip. Thanks, 	Christopher DeMichiei!",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Parchment, with holy word written upon it",-,Shield of Faith,N,PHB,275,1,"Ephesians 6:16 - ""Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked."" Thanks, Andrew Schiers!",Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Pearl,100 gp,Identify,N,PHB,252,1,,Divination,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Petrified Eye of Newt,15 gp (suggested),Hex,N,PHB,251,1,"We already have ""wool of bat"" in our pouches, too... toe of frog? Tongue of dog?",Enchantment,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Phosphorescent Moss,1 gp (suggested),Light,N,PHB,255,0,May use a firefly instead.,Evocation,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Phosphorus,1 gp (suggested),Conjure Elemental (Fire),N,PHB,225,5,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Phosphorus,1 gp (suggested),Dancing Lights,N,PHB,230,0,,Evocation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Phosphorus,1 gp (suggested),Fire Shield,N,PHB,242,4,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Phosphorus,1 gp (suggested),Symbol,N,PHB,280,7,,Abjuration,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Phosphorus,1 gp (suggested),Wall of Fire,N,PHB,285,4,,Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Pickled Octopus Tentacle,8 gp (suggested),Hunger of Hadar,N,PHB,251,3,,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+"Pitch, a drop",0.05 gp (5 cp) (suggested),Darkness,(DM's Discretion),PHB,230,2,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+"Pitch, a drop",0.05 gp (5 cp) (suggested),Maddening Darkness,(DM's Discretion),XGtE,,,Also requires a drop of Mercury.,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+"Platinum Rings, two",50 gp each,Warding Bond,N,PHB,287,2,Caster and target must wear the rings for duration,Abjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Platinum Sword, miniature, with grip and pommel of copper and zinc",250 gp,Mordenkainen's Sword,N,PHB,262,7,,Evocation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Polished Marble Stone,5 gp,Mordenkainen's Magnificent Mansion,N,PHB,261,7,,Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Pork Rind or other fat,0.02 gp (2 cp) (suggested),Grease,(DM's Discretion),PHB,246,1,,Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Pork Rind or other fat,0.02 gp (2 cp) (suggested),Insect Plague,(DM's Discretion),PHB,254,5,"Possibly a reference to Lord of the Flies? (Thanks Gus!) Or just how rotten meat attracts flies. (Thanks, Richard Ward!)",Conjuration,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Prayer Wheel,10 gp (suggested),Regenerate,N,PHB,271,7,,Transmutation,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quartz,0.10 gp (1 sp) (suggested),Wall of Ice,N,PHB,285,6,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Quill plucked from a sleeping bird,50 gp (suggested),Dream,N,PHB,236,5,,Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+"Quiver, with at least one piece of ammunition",1 gp (suggested),Swift Quiver,N,PHB,279,5,,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Red Dragon's Scale,200 gp (suggested),Aganazzar's Scorcher,N,EEPC,14,2,"Also available in PotA pg. 233, XGtE pg. 150",Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Reed,-,Water Breathing,N,PHB,287,3,May substitute a piece of straw.,Transmutation,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+Reliquary containing a Sacred Relic,"1,000 gp",Holy Aura,N,PHB,281,8,,Abjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Rhubarb Leaf, powdered",1 gp (suggested),Melf's Acid Arrow,N,PHB,259,2,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Rock Chip, white",0.10 gp (1 sp) (suggested),Snilloc's Snowball Swarm,N,EEPC,21,2,Also available in XGtE pg. 165,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Rope, 25 feet",-,Snare,Y,XGtE,,,,Abjuration,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+Rose petals,0.10 gp (1 sp) per ounce (suggested),Sleep,N,PHB,276,1,,Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Rotten Egg,-,Stinking Cloud,(DM's discretion),PHB,278,3,,Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Ruby,999 gp,Infernal Calling,N,XGtE,158,5,,Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Ruby (as dust),50 gp,Continual Flame,Y,PHB,227,2,,Evocation,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Ruby (as dust),"1,000 gp",Forbiddance,(DM's Discretion),PHB,243,6,"Kibchi Redanlae points out that rubies have historically been associated with protection, quite fitting for abjuration!",Abjuration,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ruby (as dust),"1,500 gp",Forcecage,N,PHB,243,7,,Evocation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Ruby (as dust),"1,500 gp",Simulacrum,Y,PHB,276,7,,Illusion,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Sacrificial Offering appropriate to deity,25 gp,Divination,Y,PHB,234,4,,Divination,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Salt,0.10 gp (1 sp) per ounce (suggested),Comprehend Languages,N,PHB,224,1,,Divination,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Salt,0.10 gp (1 sp) per ounce (suggested),Gentle Repose,N,PHB,245,2,"""To preserve the body, of course."" Thanks, Eric Roberts!",Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Sand,0.05 gp (5 cp) per ounce (suggested),Catnap,N,XGtE,151,3,,Enchantment,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Sand,0.05 gp (5 cp) per ounce (suggested),Conjure Elemental (Water),N,PHB,225,5,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Sand,0.05 gp (5 cp) per ounce (suggested),Create/Destroy Water (Destroy),N,PHB,229,1,,Conjuration,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sand,0.05 gp (5 cp) per ounce (suggested),Dream,N,PHB,236,5,"""Reference to Mr. Sandman, a mythical entity that pours sand on the eyes of sleepers to give them dreams"" (Thanks, William Orfanakos!)",Illusion,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Sand,0.05 gp (5 cp) per ounce (suggested),Sleep,N,PHB,276,1,"Same reference as Dream. Thanks, William Orfanakos!",Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Sand,0.05 gp (5 cp) per ounce (suggested),Wall of Sand,N,EEPC,22,3,Also available in XGtE pg. 170,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Sapphire,"1,000 gp",Drawmij's Instant Summons,Y,PHB,235,6,"Sapphire is crushed to activate, consuming it at that time, not upon casting.",Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Sesame Seeds,1 gp per ounce (suggested),Passwall,N,PHB,264,5,"""Open Sesame!"" (Thanks, Reuben Kendall!)",Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Shamrock,-,Shillelagh,N,PHB,275,0,,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Silk Square,2 gp (suggested),Nystul's Magic Aura,N,PHB,263,2,"A silk handkerchief (or square) is a common magician's prop. Thanks, Janne!",Illusion,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Silver and Iron, powdered mixture",5 gp (suggested),Dispel Good,"[varies, check spell description]",PHB,233,5,See the comment for an interesting discussion on these two metals' usage in folklore!,Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+"Silver and Iron, powdered mixture",100 gp,Magic Circle,Y,PHB,256,3,,Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+"Silver and Iron, powdered mixture",5 gp (suggested),Protection from Evil/Good,"[varies, check spell description]",PHB,270,1,,Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+"Silver Bar, ornately carved",100 gp,Astral Projection,Y,PHB,215,9,,Necromancy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+"Silver Cage, Tiny",100 gp,Soul Cage,N,XGtE,165,6,Destroying the cage ends the spell.,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+"Silver Mirror, small",5 gp (suggested),Sanctuary,N,PHB,272,1,,Abjuration,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Silver Pins (3),-,Chain Lightning,N,PHB,221,6,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Silver powder,25 gp,Ceremony,Y,XGtE,151,1,,Abjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Silver powder,5 gp (suggested),See Invisibility,N,PHB,274,2,,Divination,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Silver Rings, as a linked pair",-,Telepathy,N,PHB,281,8,"""You create a 'link' to keep the target 'in the loop.'"" I like it. Thanks, Janne!",Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Silver Rod,10 gp,Guards and Wards,N,PHB,248,6,,Abjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Silver Spoon, tiny",5 gp,Mordenkainen's Magnificent Mansion,N,PHB,261,7,"Because people who live in mansions were born with a silver spoon in their mouth. Thanks, Leigh!",Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Silver Whistle,5 gp (suggested),Mordenkainen's Faithful Hound,N,PHB,261,4,"This is how you summon a dog in real life, too. (Thanks, Richard Ward!)",Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Skunk Cabbage Leaves,0.10 gp (1 sp) (suggested),Stinking Cloud,N,PHB,278,3,,Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Snakeskin glove,5 gp,Bigby's Hand,N,PHB,218,5,,Evocation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Snaketongue,-,Mass Suggestion,N,PHB,279,6,,Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Snaketongue,-,Suggestion,N,PHB,279,2,,Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+"Snow, enough to make a life-size copy of the target creature",-,Simulacrum,Y,PHB,276,7,May substitute ice,Illusion,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Soil mixture in a small bag,0.05 gp (5 cp) (suggested),Move Earth,N,PHB,263,6,"Clay, loam, sand, etc.",Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Soot,-,Comprehend Languages,N,PHB,224,1,,Divination,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+"Spheres of glass, crystal, or mineral",2 gp (suggested),Feeblemind,N,PHB,239,8,Makes your target... lose their marbles.,Enchantment,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Spider,-,Spider Climb,N,PHB,277,2,,Transmutation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Spiderweb,-,Web,(DM's Discretion),PHB,287,2,,Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Sponge,0.20 gp (2 sp) (suggested),Abi-Dalzim's Horrid Wilting,N,EEPC,14,8,Also available in PotA pg. 233; XGtE pg. 150,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Statue of the caster, carved from ivory and decorated with gems","1,500 gp",Contingency,N,PHB,227,6,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Stem of a Thorny Plant,0.05 gp (5 cp) (suggested),Thorn Whip,N,PHB,282,0,,Transmutation,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Stone,-,Earthquake,N,PHB,236,8,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Stone,-,Hallucinatory Terrain,N,PHB,249,4,,Illusion,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Straw,-,Water Breathing,N,PHB,287,3,"One might breathe through a straw (or reed) underwater, as a snorkel. (Thanks, Tucker Collins!)",Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+Straw,-,Whirlwind,N,EEPC,23,7,"Also available in PotA pg. 242, XGtE pg. 171",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+String,-,Unseen Servant,N,PHB,284,1,"Puppet! (thanks, Gardonian Gardonian!)",Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Sugar,0.30 gp (3 sp) per ounce (suggested),Insect Plague,(DM's Discretion),PHB,254,5,,Conjuration,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Sulfur,0.10 gp (1 sp) (suggested),Conjure Elemental (Fire),N,PHB,225,5,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Sulfur,0.10 gp (1 sp) (suggested),Delayed Blast Fireball,N,PHB,230,7,The components for this spell are materials one could use to create a minor explosive.,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Sulfur,0.10 gp (1 sp) (suggested),Fireball,N,PHB,241,3,The components for this spell are materials one could use to create a minor explosive.,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Sulfur,0.10 gp (1 sp) (suggested),Flame Strike,N,PHB,242,5,,Evocation,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sumac Leaf,1 gp (suggested),Flame Blade,N,PHB,242,2,"Sumac is used as a spice, and poison sumac can make your skin (ahem) flare up. Thanks, Kibchi Redanlae!",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sunburst Pendant,100 gp,Dawn,N,XGtE,153,5,,Evocation,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Sunstone,20 gp (suggested),Sunburst,N,PHB,279,8,"""Sunstone"" here likely refers to the transparent mineral that may have had polarizing qualities, allowing sailors to locate the sun on completely overcast days.",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+"Sweet Oil, a drop",1 gp per ounce (suggested),Mass Suggestion,(DM's Discretion),PHB,279,6,,Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+"Sweet Oil, a drop",1 gp per ounce (suggested),Suggestion,(DM's Discretion),PHB,279,2,,Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Talcum powder,0.50 gp (5 sp) per pound (suggested),See Invisibility,(DM's Discretion),PHB,274,2,,Divination,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Tallow,0.30 gp (3 sp) per pound (suggested),Flaming Sphere,N,PHB,242,2,"""Tallow was used to make candles, and also as a fat for frying food. It has a high smoke point and can become incredibly hot in a frying pan."" Thanks, Reuben Kendall!",Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Tarts,0.15 gp (15 cp) (suggested),Tasha's Hideous Laughter,N,PHB,280,1,"The spell does not consume the tarts, but any hungry creature may consume them after casting.
+
+Probably a reference to getting a pie in the face. (Maybe that's the somatic component to this spell?) Thanks, Richard Ward!",Enchantment,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Tentacle of giant octopus or giant squid,-,Evard's Black Tentacles,N,PHB,248,4,"If the caster doesn't get this somehow preserved, does it rot over time? Does a rotting spell component summon rotting tentacles? Also, isn't this spell component huge???",Conjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Thorns,0.10 gp (1 sp) per dozen (suggested),Wall of Thorns,N,PHB,287,6,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Thorns, seven",0.10 gp (1 sp) per dozen (suggested),Spike Growth,N,PHB,277,2,May substitute seven sharpened sticks.,Transmutation,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Thread,0.10 gp (1 sp) per spool (suggested),Mordenkainen's Faithful Hound,N,PHB,261,4,"Magic leash for a magic hound (Thanks, Richard Ward!)",Conjuration,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Tiny Piece of Target Matter,-,Creation,N,PHB,229,5,"Obviously, this is highly variable.",Illusion,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Twig,0.05 gp (5 cp) (suggested),Hallucinatory Terrain,N,PHB,249,4,,Illusion,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Twig from a tree that has been struck by lightning,25 gp (suggested),Witch Bolt,N,PHB,289,1,IMHO this is a great example of a material spell component that can be an entire adventure hook. How many trees struck by lightning are you aware of? What if you were in a foreign land? Could someone familiar with the territory lead you to such a tree -- or even call lightning down for you? What kind of person would that be?,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Umber Hulk Blood,80 gp (suggested),Guards and Wards,N,PHB,248,6,,Abjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Undead Eyeball, Encased in Gem",150 gp,Shadow of Moil,N,XGtE,164,4,,Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Vessel to contain a Medium-sized creature,"2,000 gp",Clone,N,PHB,222,8,"Urn, sarcophagus, coffin, etc.",Necromancy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Water,-,Armor of Agathys,(DM's Discretion),PHB,215,1,,Abjuration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Water,-,Conjure Elemental (Water),(DM's Discretion),PHB,225,5,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Water,-,Control Water,(DM's Discretion),PHB,227,4,,Transmutation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+Water,-,Create Food and Water,(DM's Discretion),PHB,229,3,,Conjuration,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Water,-,Flesh to Stone,(DM's Discretion),PHB,243,6,The spell components for this spell are ingredients used to make concrete.,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Water,-,Ice Knife (or as ice),(DM's Discretion),EEPC,18,1,"Also available in PotA pg. 237, XGtE pg. 157",Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Water,-,Ice Storm,(DM's Discretion),PHB,252,4,,Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Water,-,Sleet Storm,(DM's Discretion),PHB,276,3,,Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Water,-,Tidal Wave,(DM's Discretion),EEPC,21,3,"Also available in PotA pg. 240, XGtE pg. 168",Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Water,-,Wall of Water,(DM's Discretion),EEPC,22,3,"Also available in PotA pg. 241, XGtE pg. 170",Evocation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Water,-,Watery Sphere,(DM's Discretion),EEPC,22,4,"Also available in PotA pg. 241, XGtE pg. 170",Conjuration,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Weapon,10 gp (suggested),Booming Blade,N,SCAG,142,0,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Weapon,10 gp (suggested),Green-Flame Blade,N,SCAG,,0,,Evocation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Wire of fine silver,1 gp per foot (suggested),Alarm,N,PHB,211,1,,Abjuration,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Wisp of Smoke,-,Gaseous Form,Y,PHB,244,3,,Transmutation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Wisp of Smoke,-,True Polymorph,Y,PHB,266,9,,Transmutation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Wood,1 sp (suggested),Unseen Servant,N,PHB,284,1,,Conjuration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+Wychwood,5 gp (suggested),Dancing Lights,N,PHB,230,0,,Evocation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Yew Leaf,1 gp (suggested),Detect Poison and Disease,N,PHB,231,1,"""The yew tree is deadly poisonous."" (Thanks, Reuben Kendall!) Also has medicinal uses! (Thanks, J.F. Aster!)",Divination,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
