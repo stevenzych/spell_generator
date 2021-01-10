@@ -1,0 +1,40 @@
+This is a testThis is a test
+
+This is a testFirst line
+
+First line
+
+Second linePsionics Spell: Hair Of Fire
+
+Necromancy Spell: Jowels Of Bludgeoning
+
+Enchantment Spell: Gums Of Bludgeoning
+
+Conjuration Spell: Bladder Of Force
+
+Psionics Spell: Pelvis Of Water
+
+Transmutation Spell: Ribs Of Acid
+
+Transmutation Spell: Lymph Node Of Acid
+
+Conjuration Spell: Leg Of Cold
+
+Evocation Spell: Horns Of Piercing
+
+Transmutation Spell: Radiant Skeleton
+
+Conjuration Spell: Ovary Of Slashing
+
+Divination Spell: Water Intestines
+===
+2
+psionics
+touch
+
+
+Abjuration Spell: Ear Of RadiantAbjuration Spell: Brain Of EarthPsionics Spell: Horns Of Fire
+
+Necromancy Spell: Throat Of Lightning
+
+Conjuration Spell: Beard Of Earth
